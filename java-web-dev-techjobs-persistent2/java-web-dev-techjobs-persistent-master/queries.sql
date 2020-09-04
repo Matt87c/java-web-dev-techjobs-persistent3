@@ -1,5 +1,5 @@
 ## Part 1: Test it with SQL
-SELECT * FROM job;
+SHOW COLUMNS * FROM job;
 ## Part 2: Test it with SQL
 SELECT name FROM employer
 WHERE location = 'St Louis City';
